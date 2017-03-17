@@ -1,0 +1,4 @@
+C:\Program Files\ASCON\KOMPAS-3D V16\SDK\C#\Common\KAPITypes\obj\Debug\KAPITypes.csprojResolveAssemblyReference.cache
+C:\Program Files\ASCON\KOMPAS-3D V16\SDK\C#\Common\KAPITypes\obj\Debug\KAPITypes.dll
+C:\Program Files\ASCON\KOMPAS-3D V16\SDK\C#\Common\KAPITypes\obj\Debug\KAPITypes.pdb
+C:\Program Files\ASCON\KOMPAS-3D V16\SDK\C#\Common\KAPITypes.dll

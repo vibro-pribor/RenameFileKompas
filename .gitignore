@@ -1,0 +1,4 @@
+/RenameFileKompas/build/*
+/RenameFileKompas/obj/*
+/build/Debug/Log/*
+/build/Release/Log/*
