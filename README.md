@@ -1,2 +1,2 @@
 # RenameFileKompas
-This software automates renaming of KOMPAS-3D application files, making them the names of the numbers of the documents and the names of the items, using data from the stamp.
+This software automates renaming of KOMPAS-3D application files, making them names of document designation and name of item, using data from stamp or document properties.
