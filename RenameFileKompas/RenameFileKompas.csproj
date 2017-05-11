@@ -155,6 +155,7 @@
     </None>
     <None Include="NLog.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </None>
     <None Include="NLog.xsd">
       <SubType>Designer</SubType>

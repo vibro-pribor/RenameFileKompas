@@ -641,7 +641,7 @@ namespace VP.RenameFileKompas
 														is_error_name = true;
 													}
 												else {
-													if (app_data.FirstPartNameFile == "Обозначение документа")
+													if (app_data.FirstPartNameFile == "Обозначение")
 														new_name_file = dec_number.Trim() + " - " + name.Trim();
 													else
 														new_name_file = name.Trim() + " - " + dec_number.Trim();
